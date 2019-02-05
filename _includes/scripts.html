@@ -1,4 +1,17 @@
 <!-- Scripts -->
+<script src="https://www.gstatic.com/firebasejs/5.8.2/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyBWg0XqfuiCwkd3kfM6tGpBZQI-TYXl8mI",
+    authDomain: "tbdwear-9b8df.firebaseapp.com",
+    databaseURL: "https://tbdwear-9b8df.firebaseio.com",
+    projectId: "tbdwear-9b8df",
+    storageBucket: "",
+    messagingSenderId: "974973332137"
+  };
+  firebase.initializeApp(config);
+</script>
 <script src="{{ "/js/jquery.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/js/jquery.scrollex.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/js/jquery.scrolly.min.js" | prepend: site.baseurl }}"></script>
