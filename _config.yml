@@ -4,22 +4,22 @@
 # Site settings
 title: TBD
 description: |
-  Dressing the revolution  
-  Coming Soon
+  Dressing the revolution
+  Are you ready to be a part of this?
 owner: TBD Wear # or company name
 first_published: 2019 # if migrating another site, the year of your first publish
 email: anjali@tbdwear.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tbdwear.com" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<username>
+  #twitter: https://twitter.com/<username>
   #github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
+  #linkedin-square: https://linkedin.com/in/<username>
+  #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
-  #email: /contact/
+  email: /anjali@tbdwear.com/
   #flickr:
-  instagram: https://facebook.com/<username>
+  #instagram: https://facebook.com/<username>
   #youtube-square:
   #spotify:
   #stack-overflow:
